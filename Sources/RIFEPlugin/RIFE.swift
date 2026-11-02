@@ -71,7 +71,7 @@ let interpolateOffer = PluginManifest.Offer(
     ])
 
 public let rifePlugin = GaeaPluginDefinition(
-    id: "com.xocialize.gaea.rife", version: "0.1.0", minGaea: "0.10.0", team: "CFZS6RXUCP",
+    id: "com.xocialize.gaea.rife", version: "0.1.1", minGaea: "0.10.0", team: "CFZS6RXUCP",
     repo: "https://github.com/xocialize-code/gaea-plugin-rife", title: "RIFE",
     summary: "RIFE 4.25: frame interpolation (MES video.interpolate), 2 to 8 times the frame rate, every source frame kept, up to 4K.",
     license: "Apache-2.0", executable: "gaea-rife-worker",
